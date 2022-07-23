@@ -5,6 +5,7 @@ This is a sample repository / sample app for the Git course.
  * This change was made by VSCode
  * This change was my Visual Studio 2022 Community Edition
  * This change was my by github desktop.
+ * This change was made by GitKraken.
 
 ## How To Work With Git
 1. git checkout main
